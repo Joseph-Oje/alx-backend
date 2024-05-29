@@ -18,6 +18,5 @@ Read or watch:
 - Learn how to localize timestamps
 
 ## :pencil: **Author**
-### :man: Yidnekachew Bantrga
-- [Github](https://github.com/Yidne21)
-- [Linkedin](https://www.linkedin.com/in/yidnekachew-bantrga-801376234/)
+### :man: Joseph Oluwafemi Oje
+- [Github](https://github.com/Joseph-Oje)
